@@ -1,0 +1,17 @@
+{
+    "email": {
+        "smtp_server": "smtp.gmail.com",
+        "smtp_port": 587,
+        "sender_email": "visa.link19@gmail.com",
+        "sender_password": "m159753m",
+        "recipient_email": "nidhaldilmi@gmail.com"
+    },
+    "monitoring": {
+        "check_interval": 300,
+        "max_retries": 3
+    },
+    "telegram": {
+        "bot_token": "7892215025:AAHwINg7BjH8UGFpcJp4uNlWVh7kv4ZifUs",
+        "chat_id": "6765075612"
+    }
+}
